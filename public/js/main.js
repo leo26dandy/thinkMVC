@@ -1,0 +1,1 @@
+alert('This one come from main.js');
